@@ -92,4 +92,4 @@ tests/windows
 
 # Hazel-specific
 bin
-bin-int
+intermediates
